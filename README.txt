@@ -1,0 +1,1 @@
+Crowdfund Ethereum Blockchain Application using Solidity, Web3.js, React, Next.js and Mocha (2018)1) Implemented to initiate crowdfunding for diverse projects.2) Deployed Smart Contract on Ethereum Blockchain to handle transactions.3) Added functionalities to allow benefactors to regulate the flow of funds.
